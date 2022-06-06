@@ -1,0 +1,7 @@
+Run a BFS in T from u to v to detect the edge with maximum value in that path. (O(|V|))
+If that edge's weight is greater than the weight of the edge you're trying to add
+remove that old edge and add the new one.
+Otherwise, do nothing, because the new edge would not improve the MST. (O(1)).
+
+The rationale behind this solution is that simply adding the edge into T would create exactly one cycle,
+and to restore the MST property you have to remove the edge with maximum value from that cycle.

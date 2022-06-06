@@ -1,0 +1,3 @@
+D:/Workspace/C-Examples/DataStructuresProject/cmake-build-debug/CMakeFiles/DataStructuresProject.dir
+D:/Workspace/C-Examples/DataStructuresProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/C-Examples/DataStructuresProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
