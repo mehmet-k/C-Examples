@@ -1,0 +1,8 @@
+A:B;
+B:A,C;
+C:B,D;
+D:C,E,G;
+E:D,F,G;
+F:E,H;
+G:D,E,H;
+H:F,G;
